@@ -8,8 +8,7 @@ Dit is een nieuwswebsite gebouwd met Laravel waarin gebruikers nieuwsartikelen k
 
 - Nieuwsitems overzicht met titels en publicatiedata
 - Detailpagina per nieuwsitem met afbeelding en volledige tekst
-- Admin dashboard voor nieuwsbeheer (toevoegen, bewerken, verwijderen)
-- Responsive design met Tailwind CSS
+- Admin dashboard voor nieuwsbeheer ( bewerken, verwijderen)
 - Auth-systeem voor gebruikers en admin
 
 ## Technische implementatie
